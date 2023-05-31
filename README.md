@@ -79,9 +79,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amdaaraijjen&theme=dark)](https://git.io/streak-stats)
+
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amdaaraijen&theme=dark)
 </div>
+
 
 <br>
 <br>
