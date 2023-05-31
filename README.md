@@ -46,7 +46,7 @@
 
 - **Cloud Hosting**:
 
-    ![VPS](https://img.shields.io/badge/VPS%20Pages-%23327FC7.svg?style=for-the-badge&logo=azure&logoColor=white)
+    ![VPS](https://img.shields.io/badge/VPS%23327FC7.svg?style=for-the-badge&logo=azure&logoColor=white)
     
 <br>
 
