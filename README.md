@@ -32,7 +32,7 @@
     
     ![Talwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue?logo=tailwindcss&logoColor=white&style=for-the-badge)
     ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white&style=for-the-badge)
-    ![React](https://img.shields.io/badge/React_JS-blue?logo=reactjs&logoColor=white&style=for-the-badge)
+    ![React](https://img.shields.io/badge/React_JS-blue?logo=react&logoColor=white&style=for-the-badge)
 
 <br>   
     
