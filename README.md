@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @AmdaaRaijen
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AmdaaRaijen/AmdaaRaijen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center"><b>Hi , I'm Bintang Triadmaja </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -41,9 +30,9 @@ You can click the Preview link to take a look at your changes.
 
 - **Framework**:
     
-    ![Talwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue)
-    ![Laravel](https://img.shields.io/badge/Laravel-red)
-    ![React](https://img.shields.io/badge/React-blue)
+    ![Talwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue?logo=tailwindcss&logoColor=white&style=for-the-badge)
+    ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white&style=for-the-badge)
+    ![React](https://img.shields.io/badge/React_JS-blue?logo=reactjs&logoColor=white&style=for-the-badge)
 
 <br>   
     
